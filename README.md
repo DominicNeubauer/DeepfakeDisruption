@@ -17,5 +17,7 @@ Feel feel to play around and experiement. Some of the test images/video used in 
 
 # Credit
 This code was heavily inspired by: https://github.com/MadryLab/photoguard.git
+
 The repository for the face swapping tool Roop: https://github.com/s0md3v/roop.git
+
 The repository for FaceSwap: https://github.com/deepfakes/faceswap.git
